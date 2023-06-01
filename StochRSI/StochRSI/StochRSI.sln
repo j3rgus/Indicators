@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StochRSI", "StochRSI\StochRSI.csproj", "{94D722D6-52DD-45A4-98DE-CADF952A394B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D722D6-52DD-45A4-98DE-CADF952A394B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D722D6-52DD-45A4-98DE-CADF952A394B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D722D6-52DD-45A4-98DE-CADF952A394B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D722D6-52DD-45A4-98DE-CADF952A394B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912871D7-8744-4C9A-9D93-D39825FC754B}
+	EndGlobalSection
+EndGlobal
